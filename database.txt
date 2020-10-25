@@ -1,0 +1,88 @@
+{"question": "Where did the first League of Legends World Championship take place?", "right": "J\u00f6nk\u00f6ping"}
+{"question": "When did Season One World Championship take place?", "right": "2011"}
+{"question": "Which city hosted the Worlds 2019 finals?", "right": "Paris"}
+{"question": "Which team was the first Worlds champion in 2011?", "right": "Fnatic"}
+{"question": "Which team won Worlds 2019?", "right": "FunPlus Phoenix"}
+{"question": "Which organization has won Worlds the most times?", "right": "SK Telecom T1"}
+{"question": "The Summoner's Cup is one of the biggest trophies in world sports: Do you know how heavy it is?", "right": "'32kg"}
+{"question": "Which champion had the most bans at Worlds 2019?", "right": "Pantheon"}
+{"question": "IG vs FPX had the most kills at Worlds 2019. But how many?", "right": "59"}
+{"question": "How long was FPX vs. GAM Esports \u00e2\u20ac\u201c the shortest game of the Worlds 2019?", "right": "23:33 min"}
+{"question": "Which player got a Pentakill at Worlds 2019?", "right": "Viper"}
+{"question": "Fnatic vs. OMG (2014) was the longest match ever at Worlds. But how long was it?", "right": "71:34 min"}
+{"question": "What role plays Ezreal, the prodigal explorer?", "right": "Marksman"}
+{"question": "What is not an ability of Ezreal?", "right": "Orb of Deception"}
+{"question": "What role plays Irelia, the blade dancer?", "right": "Fighter"}
+{"question": "What is not an ability of Irelia?", "right": "Bladework"}
+{"question": "What role plays LeBlanc, the deceiver?", "right": "Assassin"}
+{"question": "What is not an ability of LeBlanc?", "right": "Terrashape"}
+{"question": "What role plays Lee Sin, the blind monk?", "right": "Fighter"}
+{"question": "What is Ezreal's secondary title?", "right": "The prodigal explorer"}
+{"question": "What is Irelia's secondary title?", "right": "The blade dancer"}
+{"question": "What is LeBlanc's secondary title?", "right": "The deceiver"}
+{"question": "What is Lee Sin's secondary title?", "right": "The blind monk"}
+{"question": "What is Nautilus's secondary title?", "right": "The titan of the depths"}
+{"question": "What do Ezreal, Udyr and Zilean all have in common?", "right": "Named after Riot employees"}
+{"question": "Which was the most played champion at Worlds 2019?", "right": "Kai'Sa"}
+{"question": "Which champions had the highest win rate at Worlds 2019?", "right": "Kennen and Tahm Kench"}
+{"question": "What is not an ability of Lee Sin?", "right": "The Show Stopper"}
+{"question": "What is not an ability of Nautilus?", "right": "Tremors"}
+{"question": "Who is the Loose Cannon?", "right": "Jinx"}
+{"question": "Who is the Sheriff of Piltover?", "right": "Caitlyn"}
+{"question": "How many champions does League of Legends have?", "right": "151"}
+{"question": "Which team won the most(3) World Championsip titles?", "right": "SK Telecom T1"}
+{"question": "How many teams participate at Worlds 2020?", "right": "22"}
+{"question": "How many different shoe items exist in League of Legends?", "right": "9"}
+{"question": "What is the release year of League of Legends?", "right": "2009"}
+{"question": "Which champion has the most skins in League of Legends?", "right": "Ezreal"}
+{"question": "In which country are League of Legends professionals official athletes?", "right": "USA"}
+{"question": "What is the name of the stadium where the games of this year's Worlds will take place?", "right": "Pudong Football Stadium"}
+{"question": "Which champions are disabled at Worlds 2020?", "right": "Samira and Yone"}
+{"question": "When does the Herald spawn for the first time?", "right": "08:00"}
+{"question": "When does the Baron Nashor spawn for the first time?", "right": "20:00"}
+{"question": "Which champion has the lowest health points at level 1?", "right": "Kled"}
+{"question": "Which champion has the highest health points at level 1?", "right": "Tryndamere"}
+{"question": "Who is the outlaw of Bilgewater?", "right": "Graves"}
+{"question": "Who is the might of Demacia?", "right": "Garen"}
+{"question": "Who is the great fire tank of Freljord?", "right": "Ornn"}
+{"question": "Which bonus does the item \"Doran's Ring\" not grant?", "right": " +75 Mana"}
+{"question": "Which champion's ultimate does not have a global range?", "right": "Galio"}
+{"question": "Which bonus does the item \"Doran's Blade\" not grant?", "right": " +3 life on-hit"}
+{"question": "Which pair of champions is blood-related?", "right": "Katarina and Cassiopeia"}
+{"question": "Which champion has to reload after four basic attacks?", "right": "Jhin"}
+{"question": "What's the name of the newest champion?", "right": "Samira"}
+{"question": "Which of these champions can generate additional gold with his abilities?", "right": "Gangplank"}
+{"question": "Which of these teams never existed?", "right": "Samsung Red"}
+{"question": "Which team won Worlds 2012?", "right": "Taipei Assasins"}
+{"question": "Which team eliminated SK Telecom T1 in 2019?", "right": "G2"}
+{"question": "Which champion can't buy boots?", "right": "Cassiopeia"}
+{"question": "Which champion can't cancel auto attacks?", "right": "Kalista"}
+{"question": "Which champions critical strike chance is doubled?", "right": "Yasuo"}
+{"question": "What is the jungle item that grants \"blue smite\" called?", "right": "Stalker's Blade"}
+{"question": "Which of these champions can put other champions \"asleep\"?", "right": "Zoe"}
+{"question": "Which team eliminated Albus Nox Luna in 2016?", "right": "H2K"}
+{"question": "How much base AP does Rabbadon's Deathcap grant?", "right": "120"}
+{"question": "Which Region hosted the 2015 World Championship?", "right": "Europe"}
+{"question": "Who was the 2015 Worlds MVP?", "right": "MaRin"}
+{"question": "Who was the 2014 Worlds MVP?", "right": "Mata"}
+{"question": "Who is the boy who shattered time?", "right": "Ekko"}
+{"question": "When was Jinx released?", "right": "2013"}
+{"question": "When was Tahm Kench released?", "right": "2015"}
+{"question": "Which of these players has attended Worlds the highest number of times?", "right": "Doublelift"}
+{"question": "Which champs ultimate ability is called \"Unstoppable Force\"?", "right": "Malphite"}
+{"question": "Who is the Green Father?", "right": "Ivern"}
+{"question": "Who is the Steel Shadow?", "right": "Camille"}
+{"question": "Which of these abilities is an ultimate?", "right": "Lilting Lullaby"}
+{"question": "Which of these champions size does increase with HP?", "right": "Zac"}
+{"question": "Which of these items costs most?", "right": "Trinity Force"}
+{"question": "Which of these champions has the most World Championship skins?", "right": "Thresh"}
+{"question": "Which of these champions can teleport nearby allies?", "right": "Ryze"}
+{"question": "Which of these teams represent Korea at Worlds 2020?", "right": "Gen.G"}
+{"question": "Which of these teams never played at the Worlds stage?", "right": "Excel Gaming"}
+{"question": "Which champion is playable since the beginning?", "right": "Ryze"}
+{"question": "Which of these teams represent Europe at Worlds 2020?", "right": "Rogue"}
+{"question": "Which of these teams represent North America at Worlds 2020?", "right": "Team Liquid"}
+{"question": "How many games did it take FPX to win the Worlds 2019 final series?", "right": "3"}{"question": "How many players are ranked gold or lower in SoloQ?", "right": "85,5%"}
+{"question": "Which of these teams never reached a Worlds semi-final?", "right": "Team Liquid"}
+{"question": "Which of these Countries never hosted a Worlds game?", "right": "Japan"}
+{"question": "Which of these champions does not have a \"Championship skin\"?", "right": "Nidalee"}
