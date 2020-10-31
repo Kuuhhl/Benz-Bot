@@ -7,7 +7,7 @@
 {"question": "The Summoner's Cup is one of the biggest trophies in world sports: Do you know how heavy it is?", "right": "'32kg"}
 {"question": "Which champion had the most bans at Worlds 2019?", "right": "Pantheon"}
 {"question": "IG vs FPX had the most kills at Worlds 2019. But how many?", "right": "59"}
-{"question": "How long was FPX vs. GAM Esports \u00e2\u20ac\u201c the shortest game of the Worlds 2019?", "right": "23:33 min"}
+{"question": "How long was FPX vs. GAM Esports - the shortest game of the Worlds 2019?", "right": "23:33 min"}
 {"question": "Which player got a Pentakill at Worlds 2019?", "right": "Viper"}
 {"question": "Fnatic vs. OMG (2014) was the longest match ever at Worlds. But how long was it?", "right": "71:34 min"}
 {"question": "What role plays Ezreal, the prodigal explorer?", "right": "Marksman"}
