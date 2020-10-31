@@ -82,7 +82,14 @@
 {"question": "Which champion is playable since the beginning?", "right": "Ryze"}
 {"question": "Which of these teams represent Europe at Worlds 2020?", "right": "Rogue"}
 {"question": "Which of these teams represent North America at Worlds 2020?", "right": "Team Liquid"}
-{"question": "How many games did it take FPX to win the Worlds 2019 final series?", "right": "3"}{"question": "How many players are ranked gold or lower in SoloQ?", "right": "85,5%"}
+{"question": "How many games did it take FPX to win the Worlds 2019 final series?", "right": "3"}
 {"question": "Which of these teams never reached a Worlds semi-final?", "right": "Team Liquid"}
 {"question": "Which of these Countries never hosted a Worlds game?", "right": "Japan"}
 {"question": "Which of these champions does not have a \"Championship skin\"?", "right": "Nidalee"}
+{"question": "How many players are ranked gold or lower in SoloQ?", "right": "85,5%"}
+{"question": "How many fans attended the Worlds 2017 finals in the Beijing National Stadium?", "right": "'20,000"}
+{"question": "FPX LWX was the player with the most kills at Worlds 2019: Do you know how many he had?", "right": "110"}
+{"question": "FPX Crisp was the player with the most assists at Worlds 2019: Do you know how many he had?", "right": "213"}
+{"question": "Worlds 2019 had the most amount of champions picked and banned in the history of Worlds. But do you know how many?", "right": "99"}
+{"question": "Which of these players never played at the Worlds stage?", "right": "Crownshot"}
+{"question": "How many european teams play on the 2020 Worlds main stage?", "right": "3"}
