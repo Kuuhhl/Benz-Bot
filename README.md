@@ -17,7 +17,7 @@ You are now good to go!
 
 ## Usage
 
-Start up the program and enjoy!
+Start up the program and enjoy! You can try tweaking the delay numbers in the code to get a higher score (be careful: if you go too low, you get 0 points per question.)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
